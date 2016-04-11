@@ -1,0 +1,2 @@
+# startup_financing_report
+起業時の資金調達などに関するレポートです
